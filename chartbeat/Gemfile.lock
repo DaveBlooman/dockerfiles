@@ -1,0 +1,13 @@
+GEM
+  specs:
+    faraday (0.9.1)
+      multipart-post (>= 1.2, < 3)
+    multipart-post (2.0.0)
+    simple-graphite (2.1.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  faraday
+  simple-graphite
